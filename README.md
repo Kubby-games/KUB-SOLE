@@ -1,2 +1,2 @@
 
-<span style="color: #7ee787;">ц</span>
+<span style="color: #000000;">ц</span>
