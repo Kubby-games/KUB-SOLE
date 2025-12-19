@@ -1,2 +1,3 @@
-
-<span style="color: #000000;">ц</span>
+# KUB-SOLE
+Для доступа к KUB-SOLE.ckg
+Добавьте в ссылку: [Изменено]
